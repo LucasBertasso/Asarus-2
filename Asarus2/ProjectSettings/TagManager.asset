@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Grounds
+  - Character
+  - Scenario
+  - Moving Ground
+  - Interactive Object
+  - Enemy
+  - Vision Box
+  - PlayerAtual
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - fundo
+  - Grounds
+  - 'No Collision Layer '
+  - No Collision Layer 2
+  - No Collision Layer 3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Grounds
+    uniqueID: 2761715521
+    locked: 0
+  - name: Scenario
+    uniqueID: 3206177019
+    locked: 0
+  - name: NotPlayer
+    uniqueID: 1535162379
+    locked: 0
+  - name: Characters
+    uniqueID: 4164069327
+    locked: 0
+  - name: Effects
+    uniqueID: 2944015599
+    locked: 0

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asarus2.Plugins", "Asarus2.Plugins.csproj", "{4B6C9E05-DB39-DDE9-83D1-BBB9377BD45E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asarus2", "Asarus2.csproj", "{407E11D5-2B52-F4F5-C13A-871F510CF1CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B6C9E05-DB39-DDE9-83D1-BBB9377BD45E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B6C9E05-DB39-DDE9-83D1-BBB9377BD45E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B6C9E05-DB39-DDE9-83D1-BBB9377BD45E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B6C9E05-DB39-DDE9-83D1-BBB9377BD45E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{407E11D5-2B52-F4F5-C13A-871F510CF1CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{407E11D5-2B52-F4F5-C13A-871F510CF1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{407E11D5-2B52-F4F5-C13A-871F510CF1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{407E11D5-2B52-F4F5-C13A-871F510CF1CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

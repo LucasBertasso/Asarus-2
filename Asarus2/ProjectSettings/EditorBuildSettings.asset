@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Tutorial.unity
+    guid: e17475865f732ef49a8bc31c2b41e611
+  - enabled: 1
+    path: Assets/BossTutorial.unity
+    guid: 6afdb6e4161c6f64fa4e6e6e4dc72fbb
